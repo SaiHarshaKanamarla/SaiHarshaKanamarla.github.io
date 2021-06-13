@@ -139,6 +139,9 @@ footer{
   padding: 15px;
   display: inline-block;
 }
+.flag-counter{
+  font-size: 0.6em;
+}
 /*Responsive Styles
 --------------------------------*/
 @media screen and (min-width:750px){
