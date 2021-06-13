@@ -142,6 +142,11 @@ footer{
 .flag-counter{
   font-size: 0.6em;
 }
+.flag-counter img{
+  vertical-align: middle;
+  border: 0;
+/*   box-sizing: border-box; */
+}
 /*Responsive Styles
 --------------------------------*/
 @media screen and (min-width:750px){
