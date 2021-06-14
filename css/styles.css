@@ -84,18 +84,19 @@ header{
 /*Education
 --------------------------------*/
 .education{
-  background: #F7FFF7;
+  background: #F4F1DE; /* #F7FFF7 #F4F1DE*/
 }
 /*Work Experience
 --------------------------------*/
 .work-experience{
-  background: #A1C6D7;
+  background:#81B29A; /*#A1C6D7;*/
 }
 
 /*Projects
 --------------------------------*/
 .projects{
-  background: #cadbc8ff;
+ background: #4F6D7A; /*#cadbc8ff;*/
+  color: #F8E1DD;  
 }
 /* .projects a{
   color: #2F0361;
@@ -163,7 +164,7 @@ footer{
     margin-right: 20px; */
     display: grid;
     grid-template-columns: 1fr 2fr;
-    column-gap: 15px;
+    column-gap: 25px;
   }
   .contact {
     display: flex;
