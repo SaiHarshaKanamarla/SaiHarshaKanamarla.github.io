@@ -78,24 +78,24 @@ h3{
 /*Profile
 --------------------------------*/
 header{
-  background: #2F3061;
+  background: #1D3557;
   color: #F7FFF7;
 }
 /*Education
 --------------------------------*/
 .education{
-  background: #F4F1DE; /* #F7FFF7 #F4F1DE*/
+  background: #7FACC7; /* #F7FFF7 #F4F1DE*/
 }
 /*Work Experience
 --------------------------------*/
 .work-experience{
-  background:#81B29A; /*#A1C6D7;*/
+  background:#A8DADC; /*#A1C6D7;*/
 }
 
 /*Projects
 --------------------------------*/
 .projects{
- background: #4F6D7A; /*#cadbc8ff;*/
+ background: #F1FAEE; /*#cadbc8ff;*/
   color: #F8E1DD;  
 }
 /* .projects a{
@@ -127,7 +127,7 @@ header{
 /*Contact
 --------------------------------*/
 footer{
-  background: #343434;
+  background: #00356A;
   color: #F7FFF7;
 }
 
