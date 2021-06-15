@@ -113,6 +113,9 @@ header{
  background: #D56062; /*#cadbc8ff;*/
   color: #F8E1DD;
 }
+.feature-proj{
+  color:  #cadbc8ff;
+}
 /* .projects a{
   color: #2F0361;
 }
