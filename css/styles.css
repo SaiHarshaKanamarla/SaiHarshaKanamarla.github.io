@@ -155,17 +155,10 @@ footer{
   padding: 15px;
   display: inline-block;
 }
-.flag-counter{
+/* .flag-counter{
   font-size: 0.6em;
-}
-.flag-counter img{
-  vertical-align: center;
-  width: 1200px;
-  height: 80px;
-  padding-left: 400px;
+} */
 
-/*   box-sizing: border-box; */
-}
 /*Responsive Styles
 --------------------------------*/
 @media screen and (min-width:750px){
@@ -188,6 +181,14 @@ footer{
     display: flex;
     justify-content: center;
   }
+  /* .flag-counter img{
+    vertical-align: center;
+    width: auto;
+    height: auto;
+    padding-left: 400px;
+
+  /*   box-sizing: border-box; */
+  } */
 }
 
 @media screen and (max-width: 749px) {
@@ -202,4 +203,10 @@ footer{
   .contact a{
     padding: 5px;
   }
+  /* .flag-counter img{
+    width: 200px;
+    height: auto;
+
+    box-sizing: border-box;
+  } */
 }
