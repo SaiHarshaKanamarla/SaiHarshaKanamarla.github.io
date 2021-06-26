@@ -99,12 +99,19 @@ header {
 /* skills*/
 .skillset {
   background: black;
-  color: #f7f7f7;
-  width: 100%;
-  margin: 0 auto;
-  padding: 30px 0;
 }
 
+.technical-skills {
+  color: #f7f7f7;
+  width: 85%;
+  max-width: 800px;
+  margin: 0 auto;
+  /* padding: 40px 0; */
+}
+
+.skillset h2 {
+  color: #f7f7f7;
+}
 /*Work Experience
 --------------------------------*/
 .work-experience {
